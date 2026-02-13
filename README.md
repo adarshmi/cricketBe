@@ -20,7 +20,7 @@ Web application for **live cricket score updates**: ball-by-ball data from an um
 | [docs/SAMPLE_BALL_CONTROLLER_SERVICE.md](docs/SAMPLE_BALL_CONTROLLER_SERVICE.md) | Sample add-ball controller and service |
 | [docs/API_COLLATION.md](docs/API_COLLATION.md) | API collation (all endpoints in one place) |
 
-**Swagger (interactive API docs)**: After starting the backend, open `http://localhost:3001/api-docs`. OpenAPI JSON: `http://localhost:3001/api-docs.json`.
+**Swagger (interactive API docs)**: Local: `http://localhost:3001/api-docs`. Production (e.g. Vercel): `https://<your-backend>.vercel.app/api-docs`. OpenAPI JSON: `.../api-docs.json`.
 
 ## Quick start
 
