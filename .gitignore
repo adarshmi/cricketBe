@@ -1,0 +1,19 @@
+# Env (never commit secrets)
+.env
+.env.local
+.env.production
+.env.*.local
+backend/.env
+frontend/.env
+frontend/.env.production
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+backend/dist/
+
+# Logs and OS
+*.log
+.DS_Store
